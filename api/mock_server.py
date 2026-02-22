@@ -28,5 +28,25 @@ def get_maintenance(vin):
 def list_vehicles():
     return jsonify(vehicles)
 
+@app.route("/api/slots", methods=["GET"])
+def get_slots():
+    # Mock available slots for the next few days
+    slots = [
+        "2024-03-01 10:00 AM",
+        "2024-03-01 02:00 PM",
+        "2024-03-02 09:00 AM",
+        "2024-03-02 11:30 AM"
+    ]
+    return jsonify({"available_slots": slots})
+
+@app.route("/api/book", methods=["POST"])
+def book_appointment():
+    # In a real app, we'd take VIN and slot from request.json
+    return jsonify({
+        "status": "CONFIRMED",
+        "booking_id": f"BK-{random.randint(10000, 99999)}",
+        "message": "Appointment successfully scheduled."
+    })
+
 if __name__ == "__main__":
     app.run(port=5000)
