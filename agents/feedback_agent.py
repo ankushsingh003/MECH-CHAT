@@ -5,5 +5,10 @@ class FeedbackAgent(BaseAgent):
         super().__init__("feedback_agent", "Quality Monitor")
 
     def collect_feedback(self, booking):
-        self.log(f"Collecting feedback for booking: {booking['appointment_id']}")
-        return {"rating": 5, "comments": "Proactive alert saved my battery!"}
+        service = booking.get("service", "service")
+        self.log(f"Collecting feedback for booking: {booking['appointment_id']} ({service})")
+        
+        return {
+            "rating": 5, 
+            "comments": f"The proactive alert for {service} saved my vehicle from major damage!"
+        }

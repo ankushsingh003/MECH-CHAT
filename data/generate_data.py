@@ -25,10 +25,24 @@ def generate_synthetic_data(num_vehicles=10):
                 {"date": "2024-01-10", "issue": "Software Update", "cost": 0}
             ]
         }
-        # Inject one failure for demonstration
+        # Inject diverse failures for demonstration
         if i == 0:
             v_data["telemetry"]["battery_temp"] = 85.5 # Overheating
             v_data["health_score"] = 45
+        elif i == 10:
+            v_data["telemetry"]["tire_pressure"] = [25.0, 33.0, 33.5, 34.0] # Puncture
+            v_data["health_score"] = 62
+        elif i == 20:
+            v_data["telemetry"]["motor_rpm"] = 14500 # RPM Anomaly
+            v_data["health_score"] = 58
+        elif i == 30:
+            v_data["telemetry"]["coolant_level"] = 12.5 # Low Coolant
+            v_data["health_score"] = 55
+        elif i == 40:
+            # Multiple anomalies
+            v_data["telemetry"]["battery_temp"] = 82.0
+            v_data["telemetry"]["coolant_level"] = 10.0
+            v_data["health_score"] = 30
         
         vehicles.append(v_data)
         

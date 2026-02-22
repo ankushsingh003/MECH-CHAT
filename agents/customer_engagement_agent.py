@@ -5,6 +5,14 @@ class CustomerEngagementAgent(BaseAgent):
         super().__init__("customer_engagement_agent", "Voice Interface")
 
     def engage(self, diagnosis):
-        self.log(f"Initiating customer engagement for: {diagnosis['issue']}")
-        # In a real system, this would trigger SAPI
-        return {"confirmed": True, "communication_channel": "SAPI_VOICE"}
+        issue = diagnosis.get("issue", "system anomaly")
+        self.log(f"Initiating customer engagement for: {issue}")
+        
+        message = f"SAPI Alert: {issue} detected. {diagnosis.get('prediction', '')}. {diagnosis.get('recommended_action', '')}. Would you like to schedule a service?"
+        self.log(f"Broadcasting via SAPI: {message}")
+        
+        return {
+            "confirmed": True, 
+            "communication_channel": "SAPI_VOICE",
+            "message": message
+        }

@@ -1,59 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>MECH-CHAT | Control Center</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./src/style.css" />
-  </head>
-  <body>
+</head>
+
+<body>
     <div id="app">
-      <header>
-        <div class="logo">MECH-CHAT <span>Control Center</span></div>
-        <div class="system-status">
-          <span class="pulse"></span> System Live
-        </div>
-      </header>
-      
-      <main>
-        <div class="dashboard-grid">
-          <!-- Fleet Health Section -->
-          <section class="card fleet-health">
-            <h2>Fleet Health <span class="count">210 Vehicles</span></h2>
-            <div id="fleet-container" class="scroll-container">
-              <!-- Vehicle items will be injected here -->
-              <div class="loading">Loading fleet data...</div>
+        <div class="bg-glow"></div>
+        <header>
+            <div class="logo">MECH-CHAT <span>Control Center</span></div>
+            <div class="system-status">
+                <span class="pulse"></span> System Live
             </div>
-          </section>
+        </header>
 
-          <!-- Middle Column: Live Orchestration & Security -->
-          <div class="middle-col">
-            <section class="card orchestration">
-              <h2>Agent Orchestration Feed</h2>
-              <div id="log-container" class="scroll-container">
-                <div class="empty-state">No active orchestration tasks</div>
-              </div>
-            </section>
+        <main>
+            <div class="dashboard-grid">
+                <!-- Fleet Health Section -->
+                <section class="card fleet-health">
+                    <h2>Fleet Health <span class="count">210 Vehicles</span></h2>
+                    <div id="fleet-container" class="scroll-container">
+                        <!-- Vehicle items will be injected here -->
+                        <div class="loading">Loading fleet data...</div>
+                    </div>
+                </section>
 
-            <section class="card security">
-              <h2>Security Audit (UEBA)</h2>
-              <div id="audit-container" class="scroll-container">
-                <div class="empty-state">System secure. No alerts.</div>
-              </div>
-            </section>
-          </div>
+                <!-- Middle Column: Live Orchestration & Security -->
+                <div class="middle-col">
+                    <section class="card orchestration">
+                        <h2>Agent Orchestration Feed</h2>
+                        <div id="log-container" class="scroll-container">
+                            <div class="empty-state">No active orchestration tasks</div>
+                        </div>
+                    </section>
 
-          <!-- Right Column: SAPI Interaction -->
-          <section class="card sapi-chat">
-            <h2>SAPI Voice Interface</h2>
-            <div id="sapi-container" class="chat-container">
-              <div class="chat-bubble bot">System Standby...</div>
+                    <section class="card security">
+                        <h2>Security Audit (UEBA)</h2>
+                        <div id="audit-container" class="scroll-container">
+                            <div class="empty-state">System secure. No alerts.</div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Right Column: SAPI Interaction -->
+                <section class="card sapi-chat">
+                    <h2>SAPI Voice Interface</h2>
+                    <div class="sapi-visualizer">
+                        <div class="voice-wave">
+                            <span></span><span></span><span></span><span></span><span></span>
+                        </div>
+                    </div>
+                    <div id="sapi-container" class="chat-container scroll-container">
+                        <div class="chat-bubble bot">System Standby...</div>
+                    </div>
+                </section>
             </div>
-          </section>
-        </div>
-      </main>
+        </main>
     </div>
     <script type="module" src="/src/main.ts"></script>
-  </body>
+</body>
+
 </html>
