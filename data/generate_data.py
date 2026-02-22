@@ -35,7 +35,7 @@ def generate_synthetic_data(num_vehicles=10):
     return vehicles
 
 if __name__ == "__main__":
-    data = generate_synthetic_data()
+    data = generate_synthetic_data(num_vehicles=210)
     with open("data/vehicles.json", "w") as f:
         json.dump(data, f, indent=4)
     print("Synthetic vehicle data generated successfully.")

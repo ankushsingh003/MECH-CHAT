@@ -1,0 +1,6302 @@
+[
+    {
+        "id": "VIN-1000",
+        "model": "Model X",
+        "mileage": 61591,
+        "last_service": "2025-09-02",
+        "health_score": 45,
+        "telemetry": {
+            "battery_temp": 85.5,
+            "tire_pressure": [
+                31.29496193685514,
+                33.96824744691599,
+                33.88162937816677,
+                34.78651817867156
+            ],
+            "motor_rpm": 14591,
+            "coolant_level": 92.93053809402846
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1001",
+        "model": "Model Y",
+        "mileage": 32479,
+        "last_service": "2025-10-22",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 23.654101571138902,
+            "tire_pressure": [
+                31.22633572605257,
+                34.74135055967781,
+                32.30362821938626,
+                33.56297963721073
+            ],
+            "motor_rpm": 2683,
+            "coolant_level": 85.69415261017022
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1002",
+        "model": "Model X",
+        "mileage": 79332,
+        "last_service": "2025-12-02",
+        "health_score": 92,
+        "telemetry": {
+            "battery_temp": 24.935093598911426,
+            "tire_pressure": [
+                30.66142538101997,
+                30.611329554296695,
+                34.03901725087378,
+                30.54632886626326
+            ],
+            "motor_rpm": 8136,
+            "coolant_level": 81.1498867865747
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1003",
+        "model": "Model S",
+        "mileage": 66066,
+        "last_service": "2026-01-20",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 22.169263691689384,
+            "tire_pressure": [
+                31.754462356256454,
+                33.4278476832266,
+                31.543527686980216,
+                30.395057552723625
+            ],
+            "motor_rpm": 1506,
+            "coolant_level": 84.56139100667691
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1004",
+        "model": "Model Y",
+        "mileage": 70634,
+        "last_service": "2025-10-06",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 38.191812939759984,
+            "tire_pressure": [
+                34.70631318980996,
+                30.66839871229335,
+                33.95550079492744,
+                34.10877304537516
+            ],
+            "motor_rpm": 9170,
+            "coolant_level": 99.93752117092694
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1005",
+        "model": "Model Y",
+        "mileage": 14928,
+        "last_service": "2025-09-22",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 34.90590510652117,
+            "tire_pressure": [
+                33.60994264652781,
+                30.367473084406083,
+                32.708723527465175,
+                31.223680151327194
+            ],
+            "motor_rpm": 6601,
+            "coolant_level": 96.19170661409606
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1006",
+        "model": "Cybertruck",
+        "mileage": 20722,
+        "last_service": "2025-08-31",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 27.007105159610905,
+            "tire_pressure": [
+                34.38969185392744,
+                34.9686459968062,
+                34.65277527439919,
+                31.25287445606758
+            ],
+            "motor_rpm": 8472,
+            "coolant_level": 98.79464427453127
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1007",
+        "model": "Model Y",
+        "mileage": 26317,
+        "last_service": "2026-01-16",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 38.0820089656054,
+            "tire_pressure": [
+                31.72641643476973,
+                33.32960135231605,
+                32.73295206420052,
+                31.592122428634582
+            ],
+            "motor_rpm": 8028,
+            "coolant_level": 87.93573131699488
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1008",
+        "model": "Model X",
+        "mileage": 79651,
+        "last_service": "2025-12-15",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 28.153812409727855,
+            "tire_pressure": [
+                30.042771118611522,
+                32.96437677736109,
+                31.116878062633365,
+                34.94512641352464
+            ],
+            "motor_rpm": 1642,
+            "coolant_level": 85.38315874492703
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1009",
+        "model": "Model Y",
+        "mileage": 54959,
+        "last_service": "2026-01-02",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 34.35473278641382,
+            "tire_pressure": [
+                34.71304778094261,
+                34.09009861781532,
+                32.39334385315951,
+                34.2051381961915
+            ],
+            "motor_rpm": 12414,
+            "coolant_level": 94.80295921473132
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1010",
+        "model": "Model S",
+        "mileage": 54971,
+        "last_service": "2026-01-14",
+        "health_score": 100,
+        "telemetry": {
+            "battery_temp": 25.00122427391846,
+            "tire_pressure": [
+                31.992012971905066,
+                31.002988905203175,
+                31.71751374631391,
+                31.173304229668567
+            ],
+            "motor_rpm": 14323,
+            "coolant_level": 82.39674939512597
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1011",
+        "model": "Model 3",
+        "mileage": 45699,
+        "last_service": "2025-10-23",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 20.833385160810366,
+            "tire_pressure": [
+                30.88119690874711,
+                33.26694877240536,
+                30.438877662070208,
+                33.32843493216761
+            ],
+            "motor_rpm": 12934,
+            "coolant_level": 93.08418248266163
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1012",
+        "model": "Model S",
+        "mileage": 43002,
+        "last_service": "2025-12-28",
+        "health_score": 97,
+        "telemetry": {
+            "battery_temp": 27.11635773280827,
+            "tire_pressure": [
+                30.927750131077364,
+                33.45204480443708,
+                33.521163273107696,
+                30.71642301990862
+            ],
+            "motor_rpm": 2984,
+            "coolant_level": 80.37216675696527
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1013",
+        "model": "Model X",
+        "mileage": 77948,
+        "last_service": "2025-12-15",
+        "health_score": 100,
+        "telemetry": {
+            "battery_temp": 38.760410339333376,
+            "tire_pressure": [
+                34.45609695924213,
+                34.95639970596838,
+                31.181196488849576,
+                30.291221145977854
+            ],
+            "motor_rpm": 7324,
+            "coolant_level": 93.50640779690002
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1014",
+        "model": "Model S",
+        "mileage": 68538,
+        "last_service": "2025-12-10",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 35.37344943126265,
+            "tire_pressure": [
+                30.02101011002597,
+                32.21325506901453,
+                31.341861844245454,
+                33.930733852392
+            ],
+            "motor_rpm": 14827,
+            "coolant_level": 96.49079042063134
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1015",
+        "model": "Model S",
+        "mileage": 14157,
+        "last_service": "2026-01-16",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 26.391986701839684,
+            "tire_pressure": [
+                34.45394665180109,
+                33.99317547652058,
+                30.978323224018222,
+                30.20718163979864
+            ],
+            "motor_rpm": 3875,
+            "coolant_level": 86.42688101680103
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1016",
+        "model": "Model S",
+        "mileage": 49996,
+        "last_service": "2025-10-02",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 22.943208917548766,
+            "tire_pressure": [
+                30.702475700723248,
+                34.895868190386075,
+                33.30887295725582,
+                33.76323212802924
+            ],
+            "motor_rpm": 4949,
+            "coolant_level": 80.09492831241755
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1017",
+        "model": "Semi",
+        "mileage": 75401,
+        "last_service": "2026-01-05",
+        "health_score": 74,
+        "telemetry": {
+            "battery_temp": 34.703214407949254,
+            "tire_pressure": [
+                30.030240626705798,
+                32.71583598104351,
+                30.5081534692943,
+                32.79784798189217
+            ],
+            "motor_rpm": 7677,
+            "coolant_level": 90.06754411147472
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1018",
+        "model": "Model Y",
+        "mileage": 7136,
+        "last_service": "2025-12-26",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 23.72301128381464,
+            "tire_pressure": [
+                32.82868987816623,
+                31.067897648015215,
+                33.040403601647995,
+                34.39187344179268
+            ],
+            "motor_rpm": 1059,
+            "coolant_level": 80.79046895832398
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1019",
+        "model": "Semi",
+        "mileage": 28844,
+        "last_service": "2025-09-05",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 38.11319587185824,
+            "tire_pressure": [
+                33.614903782257706,
+                31.76157303828378,
+                34.20985482203622,
+                32.70514855554413
+            ],
+            "motor_rpm": 14997,
+            "coolant_level": 95.43855392944
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1020",
+        "model": "Model S",
+        "mileage": 47394,
+        "last_service": "2025-11-05",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 24.192775063592396,
+            "tire_pressure": [
+                32.123882012959754,
+                31.018012557487584,
+                31.03111562548432,
+                34.58436086083432
+            ],
+            "motor_rpm": 5748,
+            "coolant_level": 93.32225807256816
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1021",
+        "model": "Model S",
+        "mileage": 18006,
+        "last_service": "2025-09-08",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 43.37450926322525,
+            "tire_pressure": [
+                34.31524982419343,
+                31.177947206253805,
+                31.61340329676142,
+                33.008787490240785
+            ],
+            "motor_rpm": 10020,
+            "coolant_level": 91.89005622181168
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1022",
+        "model": "Semi",
+        "mileage": 71669,
+        "last_service": "2025-09-30",
+        "health_score": 99,
+        "telemetry": {
+            "battery_temp": 42.370114643547694,
+            "tire_pressure": [
+                33.53356756593866,
+                33.02547363923934,
+                34.190082215934304,
+                30.455186621406863
+            ],
+            "motor_rpm": 5199,
+            "coolant_level": 96.01185199189896
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1023",
+        "model": "Model Y",
+        "mileage": 32146,
+        "last_service": "2026-01-04",
+        "health_score": 94,
+        "telemetry": {
+            "battery_temp": 44.46823710927845,
+            "tire_pressure": [
+                33.88415027554721,
+                30.088757619890327,
+                30.38877720871572,
+                32.98094504513727
+            ],
+            "motor_rpm": 4941,
+            "coolant_level": 81.05216786977127
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1024",
+        "model": "Cybertruck",
+        "mileage": 5411,
+        "last_service": "2025-11-27",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 22.73204949623317,
+            "tire_pressure": [
+                32.747306349907866,
+                34.82341570871834,
+                34.62358651376465,
+                33.046018610791336
+            ],
+            "motor_rpm": 6698,
+            "coolant_level": 99.13704147405284
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1025",
+        "model": "Model S",
+        "mileage": 37147,
+        "last_service": "2025-11-29",
+        "health_score": 86,
+        "telemetry": {
+            "battery_temp": 30.40276969650359,
+            "tire_pressure": [
+                32.08161655590954,
+                30.044719514980077,
+                33.68480156113198,
+                32.980317989701895
+            ],
+            "motor_rpm": 4762,
+            "coolant_level": 85.24478225419112
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1026",
+        "model": "Cybertruck",
+        "mileage": 59674,
+        "last_service": "2025-09-17",
+        "health_score": 78,
+        "telemetry": {
+            "battery_temp": 28.905950338546976,
+            "tire_pressure": [
+                34.58792590401353,
+                33.837861650785044,
+                31.005404199308412,
+                30.464995563603928
+            ],
+            "motor_rpm": 4647,
+            "coolant_level": 90.74671080981918
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1027",
+        "model": "Semi",
+        "mileage": 55947,
+        "last_service": "2025-08-29",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 26.53593598131975,
+            "tire_pressure": [
+                31.77946956349051,
+                31.112314836535013,
+                33.080384616312486,
+                34.91756028907814
+            ],
+            "motor_rpm": 1328,
+            "coolant_level": 82.80067954814776
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1028",
+        "model": "Model Y",
+        "mileage": 59606,
+        "last_service": "2025-10-08",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 43.52580940130049,
+            "tire_pressure": [
+                33.802342547994684,
+                31.791016749726683,
+                31.530768338232654,
+                34.842472276749206
+            ],
+            "motor_rpm": 14013,
+            "coolant_level": 84.07645473925203
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1029",
+        "model": "Model X",
+        "mileage": 75374,
+        "last_service": "2025-11-25",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 30.32734243696411,
+            "tire_pressure": [
+                32.101652215209796,
+                34.71485893476409,
+                30.262450186879217,
+                34.166447098634755
+            ],
+            "motor_rpm": 4439,
+            "coolant_level": 97.16645163926373
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1030",
+        "model": "Model Y",
+        "mileage": 68915,
+        "last_service": "2025-10-18",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 23.41014852934569,
+            "tire_pressure": [
+                30.879150043652686,
+                31.258461738504202,
+                34.78251206634022,
+                34.81113006407849
+            ],
+            "motor_rpm": 14576,
+            "coolant_level": 90.62914368634917
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1031",
+        "model": "Model S",
+        "mileage": 36624,
+        "last_service": "2026-01-08",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 30.73581092333803,
+            "tire_pressure": [
+                32.5315369987967,
+                34.903792305920376,
+                30.1336567510028,
+                30.491012359099543
+            ],
+            "motor_rpm": 6785,
+            "coolant_level": 95.41515367948821
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1032",
+        "model": "Model 3",
+        "mileage": 11753,
+        "last_service": "2026-01-24",
+        "health_score": 71,
+        "telemetry": {
+            "battery_temp": 44.095140678557435,
+            "tire_pressure": [
+                30.688115288699763,
+                31.68940425635237,
+                32.49755394278042,
+                30.132107157136197
+            ],
+            "motor_rpm": 11233,
+            "coolant_level": 90.67698431928294
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1033",
+        "model": "Model S",
+        "mileage": 74399,
+        "last_service": "2025-09-14",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 36.911940366599346,
+            "tire_pressure": [
+                34.844798815885554,
+                34.68512945838709,
+                32.48020410439739,
+                33.18653140908714
+            ],
+            "motor_rpm": 6315,
+            "coolant_level": 96.33865775261607
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1034",
+        "model": "Model 3",
+        "mileage": 16334,
+        "last_service": "2025-12-22",
+        "health_score": 89,
+        "telemetry": {
+            "battery_temp": 26.484209651751314,
+            "tire_pressure": [
+                30.179331126862852,
+                31.444682237236396,
+                32.924630177793645,
+                32.912615663740894
+            ],
+            "motor_rpm": 4182,
+            "coolant_level": 94.43505492542607
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1035",
+        "model": "Model 3",
+        "mileage": 57000,
+        "last_service": "2025-10-12",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 43.35320611465623,
+            "tire_pressure": [
+                32.58606079621529,
+                32.47912598740341,
+                31.138270576236174,
+                34.53029774791775
+            ],
+            "motor_rpm": 8491,
+            "coolant_level": 86.2703653520492
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1036",
+        "model": "Model X",
+        "mileage": 56791,
+        "last_service": "2025-10-02",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 25.148018635361442,
+            "tire_pressure": [
+                32.589026631813404,
+                30.634875582365655,
+                32.39873416162044,
+                34.5049028985899
+            ],
+            "motor_rpm": 10046,
+            "coolant_level": 86.8631187232416
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1037",
+        "model": "Semi",
+        "mileage": 44020,
+        "last_service": "2025-12-05",
+        "health_score": 71,
+        "telemetry": {
+            "battery_temp": 34.108238768928004,
+            "tire_pressure": [
+                32.186973970143534,
+                33.171568402468985,
+                33.84542090796081,
+                33.52365666548075
+            ],
+            "motor_rpm": 4431,
+            "coolant_level": 96.54120690876711
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1038",
+        "model": "Model S",
+        "mileage": 77898,
+        "last_service": "2025-12-13",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 40.12509427534265,
+            "tire_pressure": [
+                31.331104335603026,
+                34.04471805742542,
+                34.64345235877451,
+                30.444231288590636
+            ],
+            "motor_rpm": 7830,
+            "coolant_level": 98.59252690017183
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1039",
+        "model": "Model 3",
+        "mileage": 14115,
+        "last_service": "2025-12-04",
+        "health_score": 75,
+        "telemetry": {
+            "battery_temp": 24.187273914481334,
+            "tire_pressure": [
+                30.880027980207053,
+                34.15279676737915,
+                30.115347006834494,
+                33.33609124380305
+            ],
+            "motor_rpm": 14426,
+            "coolant_level": 94.60897007051419
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1040",
+        "model": "Model Y",
+        "mileage": 70797,
+        "last_service": "2025-12-05",
+        "health_score": 97,
+        "telemetry": {
+            "battery_temp": 42.92881394225212,
+            "tire_pressure": [
+                33.801141086089224,
+                31.162962248307043,
+                32.09994573106075,
+                34.88354728621427
+            ],
+            "motor_rpm": 9097,
+            "coolant_level": 99.05562179411531
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1041",
+        "model": "Model S",
+        "mileage": 12049,
+        "last_service": "2026-01-15",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 29.693138916534295,
+            "tire_pressure": [
+                30.018400430846068,
+                30.786044282313235,
+                31.359337921084883,
+                33.77317293976899
+            ],
+            "motor_rpm": 7365,
+            "coolant_level": 97.4147069452824
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1042",
+        "model": "Model S",
+        "mileage": 12866,
+        "last_service": "2025-09-27",
+        "health_score": 75,
+        "telemetry": {
+            "battery_temp": 36.331190446390444,
+            "tire_pressure": [
+                34.49806534323119,
+                33.767358699919996,
+                31.95058267217083,
+                34.00212963882397
+            ],
+            "motor_rpm": 419,
+            "coolant_level": 97.52168201319836
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1043",
+        "model": "Model 3",
+        "mileage": 34151,
+        "last_service": "2025-12-03",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 34.8224208354806,
+            "tire_pressure": [
+                30.011256493724833,
+                33.60049717956388,
+                31.657899509415756,
+                32.15876326497002
+            ],
+            "motor_rpm": 9815,
+            "coolant_level": 81.07019957716534
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1044",
+        "model": "Model 3",
+        "mileage": 66886,
+        "last_service": "2025-10-30",
+        "health_score": 82,
+        "telemetry": {
+            "battery_temp": 23.11600850779531,
+            "tire_pressure": [
+                31.120429558495093,
+                31.8329001760648,
+                30.495324768702694,
+                33.89353071993385
+            ],
+            "motor_rpm": 8680,
+            "coolant_level": 93.23245066499457
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1045",
+        "model": "Model S",
+        "mileage": 66348,
+        "last_service": "2025-12-02",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 40.99161570239912,
+            "tire_pressure": [
+                32.58909778653312,
+                30.289633670347527,
+                33.69973103782948,
+                30.05482852005027
+            ],
+            "motor_rpm": 7787,
+            "coolant_level": 91.46203707320507
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1046",
+        "model": "Model Y",
+        "mileage": 74621,
+        "last_service": "2025-09-27",
+        "health_score": 71,
+        "telemetry": {
+            "battery_temp": 35.12032934727209,
+            "tire_pressure": [
+                33.36271543559575,
+                31.200069083552435,
+                32.0571081683785,
+                31.01146162068644
+            ],
+            "motor_rpm": 11076,
+            "coolant_level": 86.7690272856307
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1047",
+        "model": "Semi",
+        "mileage": 79658,
+        "last_service": "2025-09-01",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 41.47506208077253,
+            "tire_pressure": [
+                31.796521919736982,
+                33.09604626864061,
+                33.22120355638508,
+                31.998052274955516
+            ],
+            "motor_rpm": 14320,
+            "coolant_level": 81.51285734043853
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1048",
+        "model": "Model X",
+        "mileage": 58735,
+        "last_service": "2025-11-05",
+        "health_score": 92,
+        "telemetry": {
+            "battery_temp": 38.65609991626805,
+            "tire_pressure": [
+                34.26074500984797,
+                32.995272123553015,
+                33.882782055404675,
+                32.691027972315766
+            ],
+            "motor_rpm": 12052,
+            "coolant_level": 95.8884498898154
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1049",
+        "model": "Model X",
+        "mileage": 51548,
+        "last_service": "2025-09-14",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 24.140132297166208,
+            "tire_pressure": [
+                30.556509597659073,
+                32.91062382417581,
+                32.60878257562017,
+                33.13182272378499
+            ],
+            "motor_rpm": 1088,
+            "coolant_level": 88.36982137537053
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1050",
+        "model": "Model X",
+        "mileage": 35743,
+        "last_service": "2025-09-29",
+        "health_score": 78,
+        "telemetry": {
+            "battery_temp": 32.71208896365852,
+            "tire_pressure": [
+                33.579116684315295,
+                34.59569998038042,
+                34.08656590803649,
+                30.826250867897027
+            ],
+            "motor_rpm": 10,
+            "coolant_level": 88.91908454774108
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1051",
+        "model": "Model Y",
+        "mileage": 19674,
+        "last_service": "2025-10-19",
+        "health_score": 84,
+        "telemetry": {
+            "battery_temp": 44.730571561808674,
+            "tire_pressure": [
+                32.116085092098174,
+                34.846954245078955,
+                34.513697395988544,
+                30.663646661717316
+            ],
+            "motor_rpm": 9224,
+            "coolant_level": 83.43740167931398
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1052",
+        "model": "Model Y",
+        "mileage": 45827,
+        "last_service": "2025-09-29",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 30.169770797828633,
+            "tire_pressure": [
+                30.893109768155604,
+                31.622994835618258,
+                34.07678330995498,
+                34.06051893739387
+            ],
+            "motor_rpm": 7133,
+            "coolant_level": 82.84856143890173
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1053",
+        "model": "Model 3",
+        "mileage": 77911,
+        "last_service": "2025-12-13",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 35.3074993822165,
+            "tire_pressure": [
+                30.732619039513757,
+                34.1044284519529,
+                33.875565717095384,
+                30.672004857005682
+            ],
+            "motor_rpm": 12164,
+            "coolant_level": 80.1792783874391
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1054",
+        "model": "Model 3",
+        "mileage": 25093,
+        "last_service": "2025-10-01",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 23.17436809917228,
+            "tire_pressure": [
+                30.01173667186414,
+                32.389324796119766,
+                33.115995162641774,
+                32.01009988935522
+            ],
+            "motor_rpm": 3741,
+            "coolant_level": 99.77631819720168
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1055",
+        "model": "Cybertruck",
+        "mileage": 72206,
+        "last_service": "2025-11-24",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 22.572224695895265,
+            "tire_pressure": [
+                33.67787597242238,
+                33.039185105251235,
+                34.143582760013594,
+                30.642474812928747
+            ],
+            "motor_rpm": 10757,
+            "coolant_level": 94.49978712802908
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1056",
+        "model": "Semi",
+        "mileage": 42767,
+        "last_service": "2025-10-26",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 20.68153967004031,
+            "tire_pressure": [
+                33.597937820021244,
+                34.473332179365656,
+                33.91388301991418,
+                31.323521657177185
+            ],
+            "motor_rpm": 11666,
+            "coolant_level": 88.29651241153881
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1057",
+        "model": "Semi",
+        "mileage": 59811,
+        "last_service": "2025-11-19",
+        "health_score": 74,
+        "telemetry": {
+            "battery_temp": 33.35931683939262,
+            "tire_pressure": [
+                30.10964972496394,
+                31.094802982065683,
+                32.96358819208041,
+                31.346605033461362
+            ],
+            "motor_rpm": 1047,
+            "coolant_level": 86.75602061887983
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1058",
+        "model": "Model X",
+        "mileage": 35691,
+        "last_service": "2025-12-01",
+        "health_score": 82,
+        "telemetry": {
+            "battery_temp": 22.404473723205832,
+            "tire_pressure": [
+                33.4386621014865,
+                31.438700902434334,
+                30.13735096120214,
+                30.768972658144808
+            ],
+            "motor_rpm": 9536,
+            "coolant_level": 83.05794951306211
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1059",
+        "model": "Model X",
+        "mileage": 65477,
+        "last_service": "2025-12-04",
+        "health_score": 93,
+        "telemetry": {
+            "battery_temp": 32.687823226334025,
+            "tire_pressure": [
+                32.11831070574509,
+                31.569175601125462,
+                30.105171379978863,
+                33.41979398027643
+            ],
+            "motor_rpm": 12204,
+            "coolant_level": 93.92148836127689
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1060",
+        "model": "Model S",
+        "mileage": 75055,
+        "last_service": "2025-10-20",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 44.93913214664916,
+            "tire_pressure": [
+                31.576018506859818,
+                34.05386653156619,
+                30.12067990289405,
+                31.178995972660235
+            ],
+            "motor_rpm": 8322,
+            "coolant_level": 96.39815027145207
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1061",
+        "model": "Model 3",
+        "mileage": 78364,
+        "last_service": "2025-09-23",
+        "health_score": 93,
+        "telemetry": {
+            "battery_temp": 29.888326412734145,
+            "tire_pressure": [
+                33.85652853367028,
+                31.618790135565785,
+                32.306999538948496,
+                30.243470075999024
+            ],
+            "motor_rpm": 93,
+            "coolant_level": 89.6678112995315
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1062",
+        "model": "Model S",
+        "mileage": 61134,
+        "last_service": "2025-12-31",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 28.036367626045006,
+            "tire_pressure": [
+                33.556247386765804,
+                33.902552117205275,
+                32.079498066315715,
+                30.64085790817953
+            ],
+            "motor_rpm": 4482,
+            "coolant_level": 98.87561867064886
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1063",
+        "model": "Semi",
+        "mileage": 33205,
+        "last_service": "2025-09-25",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 42.180933408461335,
+            "tire_pressure": [
+                31.11972187242115,
+                30.14383184065079,
+                32.624828070910155,
+                31.829645614072845
+            ],
+            "motor_rpm": 14600,
+            "coolant_level": 96.36482422913684
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1064",
+        "model": "Cybertruck",
+        "mileage": 66844,
+        "last_service": "2025-11-22",
+        "health_score": 92,
+        "telemetry": {
+            "battery_temp": 32.40673047755946,
+            "tire_pressure": [
+                33.93717332635393,
+                31.797408191936636,
+                33.11597979440463,
+                33.078133089445956
+            ],
+            "motor_rpm": 13789,
+            "coolant_level": 83.04027164923302
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1065",
+        "model": "Model 3",
+        "mileage": 72677,
+        "last_service": "2026-01-22",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 40.81862260240473,
+            "tire_pressure": [
+                31.772097382612056,
+                34.8680915558765,
+                30.924669462704433,
+                30.066465078012985
+            ],
+            "motor_rpm": 10084,
+            "coolant_level": 98.47157593660263
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1066",
+        "model": "Cybertruck",
+        "mileage": 9161,
+        "last_service": "2025-09-30",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 36.217056407163085,
+            "tire_pressure": [
+                34.41329321567693,
+                30.83789634201868,
+                31.263258465938453,
+                33.153469548134396
+            ],
+            "motor_rpm": 953,
+            "coolant_level": 82.30223544020907
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1067",
+        "model": "Semi",
+        "mileage": 16345,
+        "last_service": "2025-12-23",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 43.093321343668244,
+            "tire_pressure": [
+                31.75541660763529,
+                32.95421460133115,
+                30.719311674270845,
+                33.79066302664965
+            ],
+            "motor_rpm": 9017,
+            "coolant_level": 97.44702499360874
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1068",
+        "model": "Model Y",
+        "mileage": 69353,
+        "last_service": "2025-12-16",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 38.11890109999962,
+            "tire_pressure": [
+                34.91646040901827,
+                32.27016134126797,
+                32.16203353618347,
+                34.96207158783563
+            ],
+            "motor_rpm": 8185,
+            "coolant_level": 95.58859959265966
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1069",
+        "model": "Cybertruck",
+        "mileage": 61584,
+        "last_service": "2025-10-12",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 32.90188246844983,
+            "tire_pressure": [
+                30.156892936986054,
+                33.394902770071305,
+                33.730335073254444,
+                32.162704079233016
+            ],
+            "motor_rpm": 6854,
+            "coolant_level": 85.50727431676572
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1070",
+        "model": "Model S",
+        "mileage": 69847,
+        "last_service": "2026-01-12",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 22.9908400628768,
+            "tire_pressure": [
+                32.34325987539462,
+                31.146493679573737,
+                34.256265885413455,
+                31.419022978415608
+            ],
+            "motor_rpm": 6954,
+            "coolant_level": 84.7600173618901
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1071",
+        "model": "Cybertruck",
+        "mileage": 42328,
+        "last_service": "2025-09-23",
+        "health_score": 84,
+        "telemetry": {
+            "battery_temp": 33.983330077869354,
+            "tire_pressure": [
+                31.141588099731933,
+                31.223193602555938,
+                32.33205834131799,
+                33.96546056977086
+            ],
+            "motor_rpm": 1101,
+            "coolant_level": 87.69400031019929
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1072",
+        "model": "Model S",
+        "mileage": 41904,
+        "last_service": "2025-12-01",
+        "health_score": 71,
+        "telemetry": {
+            "battery_temp": 43.03971447458623,
+            "tire_pressure": [
+                31.12168785609433,
+                31.270920017189543,
+                30.2592529953212,
+                32.884989700422416
+            ],
+            "motor_rpm": 8348,
+            "coolant_level": 95.06674067378707
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1073",
+        "model": "Model 3",
+        "mileage": 38797,
+        "last_service": "2025-10-03",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 22.621539915285005,
+            "tire_pressure": [
+                30.88851936032271,
+                32.11751013600638,
+                31.441968297548893,
+                31.184119485462936
+            ],
+            "motor_rpm": 691,
+            "coolant_level": 98.17529708846239
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1074",
+        "model": "Model S",
+        "mileage": 11068,
+        "last_service": "2025-11-06",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 40.30792913943455,
+            "tire_pressure": [
+                33.735468379824916,
+                30.504618145090042,
+                30.12251270850139,
+                30.828412913843835
+            ],
+            "motor_rpm": 6706,
+            "coolant_level": 96.31313001154241
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1075",
+        "model": "Model Y",
+        "mileage": 73039,
+        "last_service": "2025-10-06",
+        "health_score": 82,
+        "telemetry": {
+            "battery_temp": 24.543376168744388,
+            "tire_pressure": [
+                33.64780686378664,
+                31.46287335615101,
+                34.871942629945764,
+                31.34376546523946
+            ],
+            "motor_rpm": 10338,
+            "coolant_level": 84.63710203257634
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1076",
+        "model": "Model 3",
+        "mileage": 16969,
+        "last_service": "2025-10-26",
+        "health_score": 84,
+        "telemetry": {
+            "battery_temp": 30.169976509671546,
+            "tire_pressure": [
+                31.530216740140116,
+                30.463638645001726,
+                33.71510669242642,
+                32.64128738184585
+            ],
+            "motor_rpm": 2641,
+            "coolant_level": 82.3938232094904
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1077",
+        "model": "Semi",
+        "mileage": 13327,
+        "last_service": "2025-09-07",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 25.71675671067173,
+            "tire_pressure": [
+                32.37682409847421,
+                31.499649019603428,
+                31.60186146984634,
+                32.40211383396336
+            ],
+            "motor_rpm": 10801,
+            "coolant_level": 98.0826117253023
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1078",
+        "model": "Model X",
+        "mileage": 45599,
+        "last_service": "2026-01-05",
+        "health_score": 99,
+        "telemetry": {
+            "battery_temp": 35.283948062235865,
+            "tire_pressure": [
+                34.23028618632175,
+                32.48452188674981,
+                34.63665313178891,
+                33.701679028285824
+            ],
+            "motor_rpm": 10696,
+            "coolant_level": 81.40799421523089
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1079",
+        "model": "Model Y",
+        "mileage": 52950,
+        "last_service": "2026-01-17",
+        "health_score": 80,
+        "telemetry": {
+            "battery_temp": 34.66956051360582,
+            "tire_pressure": [
+                33.66910696491315,
+                34.37069394491177,
+                31.10259959238485,
+                34.460620609388705
+            ],
+            "motor_rpm": 14838,
+            "coolant_level": 82.86822548522878
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1080",
+        "model": "Model 3",
+        "mileage": 62847,
+        "last_service": "2025-09-20",
+        "health_score": 94,
+        "telemetry": {
+            "battery_temp": 28.80540760305537,
+            "tire_pressure": [
+                34.33690997969377,
+                30.098532142114824,
+                31.8370455345204,
+                33.415534340571654
+            ],
+            "motor_rpm": 10342,
+            "coolant_level": 81.87143848419487
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1081",
+        "model": "Model S",
+        "mileage": 5992,
+        "last_service": "2026-01-13",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 43.07130031567522,
+            "tire_pressure": [
+                31.260960956238407,
+                32.805169666985954,
+                32.05710564254482,
+                33.66754711529599
+            ],
+            "motor_rpm": 593,
+            "coolant_level": 92.29463805170676
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1082",
+        "model": "Semi",
+        "mileage": 79264,
+        "last_service": "2025-12-29",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 41.50736133768609,
+            "tire_pressure": [
+                32.0865526556545,
+                33.55973523611862,
+                31.673565755209964,
+                33.194521097517445
+            ],
+            "motor_rpm": 8485,
+            "coolant_level": 96.10612930480025
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1083",
+        "model": "Cybertruck",
+        "mileage": 19671,
+        "last_service": "2025-12-05",
+        "health_score": 93,
+        "telemetry": {
+            "battery_temp": 43.86813771627271,
+            "tire_pressure": [
+                32.598118174224,
+                32.630949404458455,
+                30.334506293751048,
+                31.008130712107008
+            ],
+            "motor_rpm": 1177,
+            "coolant_level": 82.1373972214596
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1084",
+        "model": "Cybertruck",
+        "mileage": 26482,
+        "last_service": "2025-11-03",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 28.556576252732597,
+            "tire_pressure": [
+                32.78547093098314,
+                34.7508415551418,
+                34.20015550925349,
+                34.01193440534662
+            ],
+            "motor_rpm": 12160,
+            "coolant_level": 83.0580403126856
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1085",
+        "model": "Semi",
+        "mileage": 40005,
+        "last_service": "2025-10-19",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 39.12560315171405,
+            "tire_pressure": [
+                33.90603121897711,
+                33.74795590104266,
+                32.51814602563138,
+                31.76856831847091
+            ],
+            "motor_rpm": 4267,
+            "coolant_level": 80.08172271095414
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1086",
+        "model": "Model Y",
+        "mileage": 57121,
+        "last_service": "2025-11-02",
+        "health_score": 82,
+        "telemetry": {
+            "battery_temp": 44.35809417683555,
+            "tire_pressure": [
+                32.1948480885181,
+                34.460192217580136,
+                33.42290688842945,
+                33.299989127338065
+            ],
+            "motor_rpm": 8569,
+            "coolant_level": 85.96519581008818
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1087",
+        "model": "Model Y",
+        "mileage": 6287,
+        "last_service": "2025-09-18",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 30.577944704887145,
+            "tire_pressure": [
+                31.418902427592585,
+                31.404668040055345,
+                31.188736422810706,
+                31.62486598273237
+            ],
+            "motor_rpm": 5733,
+            "coolant_level": 86.15952424988853
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1088",
+        "model": "Model X",
+        "mileage": 18308,
+        "last_service": "2025-08-28",
+        "health_score": 100,
+        "telemetry": {
+            "battery_temp": 24.39790939168019,
+            "tire_pressure": [
+                30.3425914192196,
+                33.95367024032258,
+                32.75952203531838,
+                34.921377947526054
+            ],
+            "motor_rpm": 6579,
+            "coolant_level": 96.33303116427416
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1089",
+        "model": "Model Y",
+        "mileage": 13753,
+        "last_service": "2026-01-21",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 27.471235860862365,
+            "tire_pressure": [
+                33.330002974170355,
+                31.95338766184635,
+                34.63034201561014,
+                30.57360676857734
+            ],
+            "motor_rpm": 6023,
+            "coolant_level": 98.23852646631575
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1090",
+        "model": "Cybertruck",
+        "mileage": 32316,
+        "last_service": "2025-11-09",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 42.33087122465621,
+            "tire_pressure": [
+                31.0326674131575,
+                30.407974933974824,
+                33.66854246835122,
+                33.535478730414056
+            ],
+            "motor_rpm": 13060,
+            "coolant_level": 87.14426905888753
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1091",
+        "model": "Model S",
+        "mileage": 55215,
+        "last_service": "2025-10-07",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 39.40087619365798,
+            "tire_pressure": [
+                30.271068725303667,
+                33.687808710803786,
+                30.54705892000819,
+                34.53707607706699
+            ],
+            "motor_rpm": 13916,
+            "coolant_level": 90.14408970341985
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1092",
+        "model": "Model Y",
+        "mileage": 23619,
+        "last_service": "2025-10-31",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 27.595398696491234,
+            "tire_pressure": [
+                33.57512986044719,
+                32.04354124464388,
+                30.698133361571422,
+                30.53602642319017
+            ],
+            "motor_rpm": 14647,
+            "coolant_level": 99.18609183169474
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1093",
+        "model": "Cybertruck",
+        "mileage": 55602,
+        "last_service": "2025-10-12",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 35.38648755767217,
+            "tire_pressure": [
+                31.126419559004255,
+                32.630268358627546,
+                33.99921083942955,
+                30.340548800796633
+            ],
+            "motor_rpm": 8733,
+            "coolant_level": 90.93112417965287
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1094",
+        "model": "Cybertruck",
+        "mileage": 62579,
+        "last_service": "2025-12-12",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 41.076734585435545,
+            "tire_pressure": [
+                30.49789394674802,
+                30.127199559491906,
+                31.39821857107227,
+                34.18871274932356
+            ],
+            "motor_rpm": 10555,
+            "coolant_level": 83.3598545926964
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1095",
+        "model": "Model X",
+        "mileage": 43507,
+        "last_service": "2025-10-13",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 26.72709398349182,
+            "tire_pressure": [
+                31.32659407899681,
+                30.89171812358776,
+                34.41530126456559,
+                34.8813322024197
+            ],
+            "motor_rpm": 13691,
+            "coolant_level": 81.73239970356842
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1096",
+        "model": "Model 3",
+        "mileage": 28156,
+        "last_service": "2025-12-11",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 27.968967878329792,
+            "tire_pressure": [
+                31.098724961520613,
+                32.57418922358586,
+                31.104570296178373,
+                30.69472950032966
+            ],
+            "motor_rpm": 8960,
+            "coolant_level": 97.09203218743073
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1097",
+        "model": "Model X",
+        "mileage": 18945,
+        "last_service": "2025-11-17",
+        "health_score": 70,
+        "telemetry": {
+            "battery_temp": 42.3668135612871,
+            "tire_pressure": [
+                31.9517296219961,
+                31.98203788650219,
+                31.51933845488061,
+                34.645901470742395
+            ],
+            "motor_rpm": 11419,
+            "coolant_level": 92.84640499741519
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1098",
+        "model": "Semi",
+        "mileage": 57498,
+        "last_service": "2025-09-06",
+        "health_score": 78,
+        "telemetry": {
+            "battery_temp": 37.60208323151565,
+            "tire_pressure": [
+                32.883764900544776,
+                32.474703581874564,
+                31.586204489557183,
+                34.495708739657864
+            ],
+            "motor_rpm": 962,
+            "coolant_level": 91.39184502499212
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1099",
+        "model": "Model S",
+        "mileage": 12478,
+        "last_service": "2025-11-01",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 38.71701124797473,
+            "tire_pressure": [
+                34.41471937673884,
+                33.379547315416715,
+                33.180982856955104,
+                34.57306681188653
+            ],
+            "motor_rpm": 12148,
+            "coolant_level": 90.20102343039368
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1100",
+        "model": "Model S",
+        "mileage": 60395,
+        "last_service": "2025-12-01",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 21.456510566388136,
+            "tire_pressure": [
+                33.65639213934676,
+                34.66070550262846,
+                33.060742276978075,
+                30.482655646703797
+            ],
+            "motor_rpm": 14005,
+            "coolant_level": 98.66706069025679
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1101",
+        "model": "Cybertruck",
+        "mileage": 40851,
+        "last_service": "2025-12-30",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 25.81076118061553,
+            "tire_pressure": [
+                31.38286344632902,
+                33.90297921430155,
+                34.35552198983094,
+                32.4075352024241
+            ],
+            "motor_rpm": 2414,
+            "coolant_level": 99.19571093875324
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1102",
+        "model": "Semi",
+        "mileage": 70228,
+        "last_service": "2026-01-08",
+        "health_score": 86,
+        "telemetry": {
+            "battery_temp": 32.11509657680088,
+            "tire_pressure": [
+                34.379769310421395,
+                34.81982977471918,
+                31.105450274116325,
+                33.61300126091262
+            ],
+            "motor_rpm": 3777,
+            "coolant_level": 99.53248667733736
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1103",
+        "model": "Model X",
+        "mileage": 44721,
+        "last_service": "2025-09-06",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 42.818214565144515,
+            "tire_pressure": [
+                31.748610146433823,
+                34.71235050968769,
+                34.10055632590441,
+                33.609571746965116
+            ],
+            "motor_rpm": 2680,
+            "coolant_level": 80.89512518872269
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1104",
+        "model": "Model 3",
+        "mileage": 47271,
+        "last_service": "2025-11-10",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 22.530535716239857,
+            "tire_pressure": [
+                30.36228563825819,
+                34.88954219079179,
+                33.92323919418819,
+                33.89347326568479
+            ],
+            "motor_rpm": 5598,
+            "coolant_level": 94.15164678662678
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1105",
+        "model": "Semi",
+        "mileage": 20220,
+        "last_service": "2025-10-29",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 40.96751530118826,
+            "tire_pressure": [
+                31.22714340500703,
+                34.78352967048197,
+                34.26937150073926,
+                34.83446113807518
+            ],
+            "motor_rpm": 429,
+            "coolant_level": 84.76395685223895
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1106",
+        "model": "Model S",
+        "mileage": 49478,
+        "last_service": "2025-12-27",
+        "health_score": 99,
+        "telemetry": {
+            "battery_temp": 26.947707130450056,
+            "tire_pressure": [
+                30.811972221864462,
+                32.10880081824421,
+                32.6842864663413,
+                34.655482218163534
+            ],
+            "motor_rpm": 14547,
+            "coolant_level": 96.18914838764947
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1107",
+        "model": "Semi",
+        "mileage": 35061,
+        "last_service": "2026-01-01",
+        "health_score": 82,
+        "telemetry": {
+            "battery_temp": 22.08734010617146,
+            "tire_pressure": [
+                34.002043341114764,
+                32.264222627912154,
+                34.756144948907746,
+                33.831354505775415
+            ],
+            "motor_rpm": 10630,
+            "coolant_level": 83.37851552052472
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1108",
+        "model": "Semi",
+        "mileage": 15950,
+        "last_service": "2025-11-02",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 22.84744747404943,
+            "tire_pressure": [
+                31.37255631195137,
+                30.83892082788434,
+                33.951980360863686,
+                33.5045928282655
+            ],
+            "motor_rpm": 6490,
+            "coolant_level": 80.76930203594252
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1109",
+        "model": "Cybertruck",
+        "mileage": 26996,
+        "last_service": "2025-10-15",
+        "health_score": 89,
+        "telemetry": {
+            "battery_temp": 40.14669133920371,
+            "tire_pressure": [
+                31.202308562439097,
+                30.60780220392139,
+                33.56298107568974,
+                32.800689294012436
+            ],
+            "motor_rpm": 5994,
+            "coolant_level": 80.17596091755175
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1110",
+        "model": "Model Y",
+        "mileage": 27529,
+        "last_service": "2025-11-15",
+        "health_score": 100,
+        "telemetry": {
+            "battery_temp": 22.024919843914788,
+            "tire_pressure": [
+                31.566493235042238,
+                30.555137778732206,
+                34.15003923603127,
+                34.95715935898583
+            ],
+            "motor_rpm": 1876,
+            "coolant_level": 89.50238182082161
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1111",
+        "model": "Model X",
+        "mileage": 28424,
+        "last_service": "2025-10-03",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 29.843106361283944,
+            "tire_pressure": [
+                34.215926455852966,
+                34.1589061105864,
+                32.587084549541956,
+                33.40273265163268
+            ],
+            "motor_rpm": 3796,
+            "coolant_level": 89.28562968045513
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1112",
+        "model": "Model 3",
+        "mileage": 31445,
+        "last_service": "2025-12-22",
+        "health_score": 78,
+        "telemetry": {
+            "battery_temp": 26.62727363872664,
+            "tire_pressure": [
+                31.317455395282575,
+                31.04148995480645,
+                34.06326436097338,
+                31.78988523453106
+            ],
+            "motor_rpm": 72,
+            "coolant_level": 88.08175661957148
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1113",
+        "model": "Cybertruck",
+        "mileage": 64738,
+        "last_service": "2025-11-13",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 21.991835742845467,
+            "tire_pressure": [
+                30.5026742228543,
+                32.74511418534693,
+                30.46120516416931,
+                30.989383731514025
+            ],
+            "motor_rpm": 7349,
+            "coolant_level": 80.66617396085255
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1114",
+        "model": "Model 3",
+        "mileage": 78349,
+        "last_service": "2025-11-18",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 43.76624885009385,
+            "tire_pressure": [
+                30.237165287012125,
+                33.88348013100915,
+                33.108156818606716,
+                34.31769970689397
+            ],
+            "motor_rpm": 6331,
+            "coolant_level": 87.16966229339624
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1115",
+        "model": "Model X",
+        "mileage": 64693,
+        "last_service": "2025-10-14",
+        "health_score": 75,
+        "telemetry": {
+            "battery_temp": 34.61290187203023,
+            "tire_pressure": [
+                34.02972966452231,
+                30.13289081719104,
+                34.44027983919075,
+                30.658968872817315
+            ],
+            "motor_rpm": 4887,
+            "coolant_level": 95.38455661917402
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1116",
+        "model": "Semi",
+        "mileage": 25803,
+        "last_service": "2026-01-13",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 38.15229958274724,
+            "tire_pressure": [
+                31.393971293179764,
+                34.79401405071447,
+                32.77227859321446,
+                32.42091504974643
+            ],
+            "motor_rpm": 5858,
+            "coolant_level": 93.31093778297917
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1117",
+        "model": "Model Y",
+        "mileage": 15752,
+        "last_service": "2025-09-07",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 29.827933357856793,
+            "tire_pressure": [
+                31.166293791619687,
+                33.50189707691058,
+                32.25300597956658,
+                31.213090847172495
+            ],
+            "motor_rpm": 12513,
+            "coolant_level": 95.92288553823671
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1118",
+        "model": "Cybertruck",
+        "mileage": 33242,
+        "last_service": "2025-11-10",
+        "health_score": 100,
+        "telemetry": {
+            "battery_temp": 23.861590874035276,
+            "tire_pressure": [
+                31.002905020913587,
+                31.597264458723785,
+                32.54740530713032,
+                34.43729896372849
+            ],
+            "motor_rpm": 9136,
+            "coolant_level": 90.2309867140522
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1119",
+        "model": "Model X",
+        "mileage": 50270,
+        "last_service": "2025-09-29",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 21.07413104376488,
+            "tire_pressure": [
+                33.718624651125644,
+                31.62647314495355,
+                31.391702262063912,
+                32.324029271767024
+            ],
+            "motor_rpm": 6445,
+            "coolant_level": 88.89094802908465
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1120",
+        "model": "Cybertruck",
+        "mileage": 39234,
+        "last_service": "2025-09-24",
+        "health_score": 94,
+        "telemetry": {
+            "battery_temp": 26.379755457537307,
+            "tire_pressure": [
+                32.63998896959888,
+                31.35714044075917,
+                31.95858380240207,
+                32.91232857286293
+            ],
+            "motor_rpm": 5996,
+            "coolant_level": 95.72196885517275
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1121",
+        "model": "Model 3",
+        "mileage": 65193,
+        "last_service": "2025-09-22",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 31.701047223304457,
+            "tire_pressure": [
+                31.72890549146022,
+                30.374945175269843,
+                31.415107148432217,
+                33.03912726200951
+            ],
+            "motor_rpm": 8502,
+            "coolant_level": 82.09629116405827
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1122",
+        "model": "Cybertruck",
+        "mileage": 75145,
+        "last_service": "2025-12-09",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 38.16817973756087,
+            "tire_pressure": [
+                31.58129009836661,
+                31.601558337005013,
+                31.76180610906265,
+                31.17936904472609
+            ],
+            "motor_rpm": 5758,
+            "coolant_level": 90.72740395625964
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1123",
+        "model": "Model X",
+        "mileage": 36485,
+        "last_service": "2025-12-10",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 44.62190707275393,
+            "tire_pressure": [
+                33.46247652773776,
+                34.32248760696604,
+                31.218948521882332,
+                30.41960859351378
+            ],
+            "motor_rpm": 11769,
+            "coolant_level": 89.12934636205777
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1124",
+        "model": "Model 3",
+        "mileage": 79907,
+        "last_service": "2025-12-11",
+        "health_score": 89,
+        "telemetry": {
+            "battery_temp": 34.23502654785242,
+            "tire_pressure": [
+                33.160328268390835,
+                33.39233137620656,
+                30.251966388470525,
+                32.96994871452654
+            ],
+            "motor_rpm": 7669,
+            "coolant_level": 80.74293189052912
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1125",
+        "model": "Model Y",
+        "mileage": 40552,
+        "last_service": "2025-12-28",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 43.54769720008079,
+            "tire_pressure": [
+                34.773940459645324,
+                34.62668447352607,
+                30.116163098350523,
+                33.39679117602876
+            ],
+            "motor_rpm": 591,
+            "coolant_level": 96.39686944450003
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1126",
+        "model": "Cybertruck",
+        "mileage": 65246,
+        "last_service": "2025-08-30",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 44.70385582826025,
+            "tire_pressure": [
+                34.066239527875545,
+                30.077176333099665,
+                30.67395111145468,
+                31.26645138152774
+            ],
+            "motor_rpm": 14443,
+            "coolant_level": 81.20409744639367
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1127",
+        "model": "Model S",
+        "mileage": 10760,
+        "last_service": "2025-12-30",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 28.960524032221947,
+            "tire_pressure": [
+                34.61464624834488,
+                34.486834257039945,
+                33.45823714394628,
+                32.096099618579885
+            ],
+            "motor_rpm": 2351,
+            "coolant_level": 98.10043032496093
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1128",
+        "model": "Model 3",
+        "mileage": 43109,
+        "last_service": "2025-08-28",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 28.776718979720744,
+            "tire_pressure": [
+                31.582129027840462,
+                30.15600058030745,
+                31.797980853994563,
+                32.00601158404009
+            ],
+            "motor_rpm": 10079,
+            "coolant_level": 93.52616527949661
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1129",
+        "model": "Semi",
+        "mileage": 69819,
+        "last_service": "2026-01-18",
+        "health_score": 97,
+        "telemetry": {
+            "battery_temp": 30.777907259355743,
+            "tire_pressure": [
+                34.451859130449805,
+                30.389036711102456,
+                33.04322457651441,
+                33.597869891886006
+            ],
+            "motor_rpm": 8964,
+            "coolant_level": 86.40121830762718
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1130",
+        "model": "Cybertruck",
+        "mileage": 56321,
+        "last_service": "2026-01-23",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 41.98545886773728,
+            "tire_pressure": [
+                33.64377770144997,
+                34.23180096085846,
+                32.06180627212029,
+                33.058468669721755
+            ],
+            "motor_rpm": 11751,
+            "coolant_level": 82.59222614251279
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1131",
+        "model": "Model X",
+        "mileage": 49132,
+        "last_service": "2026-01-03",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 24.865704247537984,
+            "tire_pressure": [
+                32.966920234320625,
+                32.6203772627021,
+                32.716208913827735,
+                30.845566099702282
+            ],
+            "motor_rpm": 8501,
+            "coolant_level": 86.27793104033192
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1132",
+        "model": "Model S",
+        "mileage": 28331,
+        "last_service": "2025-12-22",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 29.423290308892618,
+            "tire_pressure": [
+                32.72184949247097,
+                31.631925154422216,
+                33.76999032842912,
+                34.60917087759571
+            ],
+            "motor_rpm": 4666,
+            "coolant_level": 92.82032506838019
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1133",
+        "model": "Model S",
+        "mileage": 65745,
+        "last_service": "2025-09-13",
+        "health_score": 93,
+        "telemetry": {
+            "battery_temp": 26.634941487597704,
+            "tire_pressure": [
+                30.991690350875984,
+                34.68019932383481,
+                32.01480904959085,
+                31.246921911017896
+            ],
+            "motor_rpm": 7217,
+            "coolant_level": 89.66476977531936
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1134",
+        "model": "Semi",
+        "mileage": 15582,
+        "last_service": "2026-01-03",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 34.63679432447683,
+            "tire_pressure": [
+                32.785193315246474,
+                34.20693632495773,
+                33.81424683667843,
+                31.896369534703474
+            ],
+            "motor_rpm": 2524,
+            "coolant_level": 89.24277966939309
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1135",
+        "model": "Cybertruck",
+        "mileage": 46124,
+        "last_service": "2025-09-21",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 40.184243979762385,
+            "tire_pressure": [
+                33.33829691194575,
+                31.583520976873768,
+                30.257390652209892,
+                30.37944817056829
+            ],
+            "motor_rpm": 1107,
+            "coolant_level": 85.75449075080981
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1136",
+        "model": "Model Y",
+        "mileage": 77298,
+        "last_service": "2025-10-14",
+        "health_score": 99,
+        "telemetry": {
+            "battery_temp": 30.253091463846836,
+            "tire_pressure": [
+                31.29881488224728,
+                34.08175845958632,
+                33.33871964129394,
+                33.72480877390774
+            ],
+            "motor_rpm": 12051,
+            "coolant_level": 84.34323638734492
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1137",
+        "model": "Model X",
+        "mileage": 47820,
+        "last_service": "2025-10-08",
+        "health_score": 80,
+        "telemetry": {
+            "battery_temp": 20.80465990534958,
+            "tire_pressure": [
+                33.30652754862394,
+                32.28574146116277,
+                32.21917664366936,
+                33.22938481380117
+            ],
+            "motor_rpm": 14327,
+            "coolant_level": 96.80282415910312
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1138",
+        "model": "Model X",
+        "mileage": 53691,
+        "last_service": "2025-10-01",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 39.62376084385478,
+            "tire_pressure": [
+                34.8482740708334,
+                31.232390508384412,
+                34.30897982883962,
+                31.140439619836105
+            ],
+            "motor_rpm": 6469,
+            "coolant_level": 86.58766032689861
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1139",
+        "model": "Model X",
+        "mileage": 47886,
+        "last_service": "2026-01-03",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 37.85442453033903,
+            "tire_pressure": [
+                32.06675181273966,
+                34.517457891445744,
+                33.34829112401067,
+                31.23116688271536
+            ],
+            "motor_rpm": 4853,
+            "coolant_level": 83.47777338294237
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1140",
+        "model": "Model X",
+        "mileage": 41248,
+        "last_service": "2025-09-30",
+        "health_score": 97,
+        "telemetry": {
+            "battery_temp": 26.089318486622734,
+            "tire_pressure": [
+                32.029956843698116,
+                30.694096878844864,
+                32.560004990543774,
+                34.86827400121217
+            ],
+            "motor_rpm": 9928,
+            "coolant_level": 83.69675614422721
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1141",
+        "model": "Cybertruck",
+        "mileage": 10988,
+        "last_service": "2025-12-22",
+        "health_score": 79,
+        "telemetry": {
+            "battery_temp": 34.04876187975709,
+            "tire_pressure": [
+                31.63750214365464,
+                33.14821758942509,
+                30.96848346689112,
+                30.36175135620955
+            ],
+            "motor_rpm": 1427,
+            "coolant_level": 91.43278925926914
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1142",
+        "model": "Model 3",
+        "mileage": 67873,
+        "last_service": "2025-09-26",
+        "health_score": 80,
+        "telemetry": {
+            "battery_temp": 41.56573553578979,
+            "tire_pressure": [
+                32.26125458760831,
+                32.67466133828934,
+                32.65434941257776,
+                34.14397376796729
+            ],
+            "motor_rpm": 10499,
+            "coolant_level": 97.70142271091963
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1143",
+        "model": "Model 3",
+        "mileage": 28224,
+        "last_service": "2025-12-06",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 32.386356842942334,
+            "tire_pressure": [
+                33.76958615932452,
+                33.54016794997153,
+                30.72725447055582,
+                30.733025905434083
+            ],
+            "motor_rpm": 11200,
+            "coolant_level": 92.51746034143
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1144",
+        "model": "Semi",
+        "mileage": 49680,
+        "last_service": "2025-12-14",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 20.629256741119942,
+            "tire_pressure": [
+                34.99208829123139,
+                34.31582078097649,
+                33.3097210901211,
+                30.733208942210464
+            ],
+            "motor_rpm": 7521,
+            "coolant_level": 82.99039844701709
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1145",
+        "model": "Model X",
+        "mileage": 61832,
+        "last_service": "2025-11-17",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 40.91565933664423,
+            "tire_pressure": [
+                31.89719932394276,
+                33.03842897946815,
+                32.663608768497724,
+                30.904908431795835
+            ],
+            "motor_rpm": 6447,
+            "coolant_level": 87.90774187503423
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1146",
+        "model": "Model S",
+        "mileage": 31163,
+        "last_service": "2025-09-10",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 33.492463982654684,
+            "tire_pressure": [
+                30.26689328367051,
+                33.74066228870376,
+                31.7642477510285,
+                33.6759526868824
+            ],
+            "motor_rpm": 14296,
+            "coolant_level": 83.33268088734839
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1147",
+        "model": "Model S",
+        "mileage": 28615,
+        "last_service": "2025-09-18",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 33.760230159316464,
+            "tire_pressure": [
+                31.940566486943833,
+                31.860528196800864,
+                34.84234818841204,
+                34.055447392512036
+            ],
+            "motor_rpm": 11228,
+            "coolant_level": 85.81588988799994
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1148",
+        "model": "Model X",
+        "mileage": 76005,
+        "last_service": "2025-10-05",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 27.33363193471517,
+            "tire_pressure": [
+                31.046393482564337,
+                34.473552362518284,
+                31.928106964109062,
+                30.66654697252932
+            ],
+            "motor_rpm": 10226,
+            "coolant_level": 84.35912014424724
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1149",
+        "model": "Model X",
+        "mileage": 55795,
+        "last_service": "2025-10-21",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 29.24411692532326,
+            "tire_pressure": [
+                30.373392208279945,
+                33.6561539395941,
+                30.805743818298165,
+                31.664299273349496
+            ],
+            "motor_rpm": 2614,
+            "coolant_level": 86.22714919918072
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1150",
+        "model": "Cybertruck",
+        "mileage": 12192,
+        "last_service": "2025-10-18",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 35.74907895024337,
+            "tire_pressure": [
+                31.001468206735353,
+                33.54471651215288,
+                33.39280329860059,
+                33.75187346313766
+            ],
+            "motor_rpm": 8971,
+            "coolant_level": 82.19501912994077
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1151",
+        "model": "Cybertruck",
+        "mileage": 60035,
+        "last_service": "2025-09-01",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 38.94290333313741,
+            "tire_pressure": [
+                34.51988046370577,
+                30.533200731688954,
+                33.123355389023395,
+                30.245520348655923
+            ],
+            "motor_rpm": 8807,
+            "coolant_level": 96.29365720215091
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1152",
+        "model": "Model 3",
+        "mileage": 9668,
+        "last_service": "2025-12-23",
+        "health_score": 92,
+        "telemetry": {
+            "battery_temp": 26.51499195689738,
+            "tire_pressure": [
+                33.492621055793684,
+                34.20867238537126,
+                32.559539335619625,
+                33.406900889803666
+            ],
+            "motor_rpm": 1660,
+            "coolant_level": 97.52600931595984
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1153",
+        "model": "Model X",
+        "mileage": 66911,
+        "last_service": "2025-12-02",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 31.47242357383299,
+            "tire_pressure": [
+                31.43921023097081,
+                33.86952841376729,
+                34.11924524373921,
+                30.247595874684695
+            ],
+            "motor_rpm": 12445,
+            "coolant_level": 90.99137655139792
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1154",
+        "model": "Model S",
+        "mileage": 16494,
+        "last_service": "2025-11-22",
+        "health_score": 84,
+        "telemetry": {
+            "battery_temp": 31.543766743472236,
+            "tire_pressure": [
+                30.811705735546603,
+                34.07581618199904,
+                33.62902611486989,
+                32.2743299220168
+            ],
+            "motor_rpm": 5744,
+            "coolant_level": 96.0806870146849
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1155",
+        "model": "Model Y",
+        "mileage": 59108,
+        "last_service": "2025-12-28",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 21.069454453861667,
+            "tire_pressure": [
+                30.43973079472375,
+                32.13517619322211,
+                34.158026188592274,
+                34.653707593955566
+            ],
+            "motor_rpm": 13667,
+            "coolant_level": 97.45274595923158
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1156",
+        "model": "Model S",
+        "mileage": 9973,
+        "last_service": "2025-12-02",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 43.18556167712816,
+            "tire_pressure": [
+                34.71619774015615,
+                32.264169870869935,
+                31.656108423175432,
+                32.59943767125061
+            ],
+            "motor_rpm": 9542,
+            "coolant_level": 95.30697472183536
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1157",
+        "model": "Model X",
+        "mileage": 38541,
+        "last_service": "2025-11-28",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 36.59230891031345,
+            "tire_pressure": [
+                34.70213321410677,
+                31.563837428794645,
+                33.024169676453624,
+                33.31234901878988
+            ],
+            "motor_rpm": 10963,
+            "coolant_level": 98.6404228451131
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1158",
+        "model": "Model 3",
+        "mileage": 43395,
+        "last_service": "2025-12-21",
+        "health_score": 94,
+        "telemetry": {
+            "battery_temp": 25.046773706317616,
+            "tire_pressure": [
+                30.093583995074365,
+                32.094200438412905,
+                32.27076031750921,
+                31.34122806072001
+            ],
+            "motor_rpm": 3493,
+            "coolant_level": 90.3491883734075
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1159",
+        "model": "Semi",
+        "mileage": 40819,
+        "last_service": "2025-09-08",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 32.43497256274223,
+            "tire_pressure": [
+                32.80692480898219,
+                30.129810971178383,
+                33.55098676511255,
+                30.54286940747444
+            ],
+            "motor_rpm": 6971,
+            "coolant_level": 99.3026904601769
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1160",
+        "model": "Model Y",
+        "mileage": 78386,
+        "last_service": "2025-09-26",
+        "health_score": 89,
+        "telemetry": {
+            "battery_temp": 25.1268172511595,
+            "tire_pressure": [
+                33.81638692141275,
+                34.06201154346057,
+                33.72279287888145,
+                33.8600696396813
+            ],
+            "motor_rpm": 10469,
+            "coolant_level": 85.5287751171989
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1161",
+        "model": "Model S",
+        "mileage": 62057,
+        "last_service": "2025-09-10",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 29.512481683168446,
+            "tire_pressure": [
+                31.244761917260995,
+                34.58865534567984,
+                30.684917447418186,
+                34.592181500567435
+            ],
+            "motor_rpm": 5080,
+            "coolant_level": 92.4014829588394
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1162",
+        "model": "Model X",
+        "mileage": 12368,
+        "last_service": "2025-11-30",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 40.9667996807116,
+            "tire_pressure": [
+                33.783615893014534,
+                33.729978188713815,
+                31.831107314855508,
+                34.69282144566363
+            ],
+            "motor_rpm": 9058,
+            "coolant_level": 99.26178488457509
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1163",
+        "model": "Model 3",
+        "mileage": 52093,
+        "last_service": "2025-10-01",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 20.332164573798053,
+            "tire_pressure": [
+                30.570662496846122,
+                34.16269094949871,
+                33.81930157775768,
+                32.0664346691611
+            ],
+            "motor_rpm": 577,
+            "coolant_level": 90.84629507017505
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1164",
+        "model": "Model 3",
+        "mileage": 74275,
+        "last_service": "2025-09-25",
+        "health_score": 75,
+        "telemetry": {
+            "battery_temp": 29.090058929787876,
+            "tire_pressure": [
+                34.468937913735445,
+                31.174100017198413,
+                33.32699561358395,
+                31.912613684280362
+            ],
+            "motor_rpm": 1838,
+            "coolant_level": 83.92740276348125
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1165",
+        "model": "Model Y",
+        "mileage": 42818,
+        "last_service": "2025-10-30",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 36.26961506353997,
+            "tire_pressure": [
+                30.6474403871861,
+                33.54295582625292,
+                31.857279631281884,
+                30.871343049690804
+            ],
+            "motor_rpm": 14180,
+            "coolant_level": 87.28242288023269
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1166",
+        "model": "Semi",
+        "mileage": 37412,
+        "last_service": "2025-11-15",
+        "health_score": 94,
+        "telemetry": {
+            "battery_temp": 30.49688145379022,
+            "tire_pressure": [
+                30.9623056079993,
+                30.71369624978035,
+                30.094904910522477,
+                34.20146026873141
+            ],
+            "motor_rpm": 302,
+            "coolant_level": 83.77782093358044
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1167",
+        "model": "Model Y",
+        "mileage": 59601,
+        "last_service": "2025-09-16",
+        "health_score": 73,
+        "telemetry": {
+            "battery_temp": 27.879077771065266,
+            "tire_pressure": [
+                34.107009380919216,
+                34.48158315172324,
+                34.167197702666016,
+                32.95531301261749
+            ],
+            "motor_rpm": 9391,
+            "coolant_level": 80.99140576232828
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1168",
+        "model": "Cybertruck",
+        "mileage": 66579,
+        "last_service": "2025-09-17",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 20.015083659757977,
+            "tire_pressure": [
+                31.884276897313434,
+                31.13615045413326,
+                32.37635135543962,
+                30.58112320242341
+            ],
+            "motor_rpm": 6220,
+            "coolant_level": 92.84955691309139
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1169",
+        "model": "Cybertruck",
+        "mileage": 24696,
+        "last_service": "2025-10-09",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 31.44389613424267,
+            "tire_pressure": [
+                32.489543440599434,
+                30.76020338238959,
+                31.536132429948452,
+                31.64150084187337
+            ],
+            "motor_rpm": 728,
+            "coolant_level": 82.40827254822294
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1170",
+        "model": "Cybertruck",
+        "mileage": 16744,
+        "last_service": "2025-12-16",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 25.3180263153222,
+            "tire_pressure": [
+                33.692460949546735,
+                31.04837168257175,
+                32.48887463104881,
+                34.43373655110546
+            ],
+            "motor_rpm": 10247,
+            "coolant_level": 92.87274984134352
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1171",
+        "model": "Semi",
+        "mileage": 62851,
+        "last_service": "2025-09-25",
+        "health_score": 88,
+        "telemetry": {
+            "battery_temp": 36.535269559037104,
+            "tire_pressure": [
+                33.33023325747056,
+                32.463108791418314,
+                32.75481109926972,
+                30.049166657105072
+            ],
+            "motor_rpm": 13537,
+            "coolant_level": 99.74685074073616
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1172",
+        "model": "Semi",
+        "mileage": 39484,
+        "last_service": "2026-01-03",
+        "health_score": 83,
+        "telemetry": {
+            "battery_temp": 36.57141341766783,
+            "tire_pressure": [
+                32.017814974800544,
+                33.048096566942604,
+                33.8110482084624,
+                33.016927749306305
+            ],
+            "motor_rpm": 3936,
+            "coolant_level": 81.11359742582464
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1173",
+        "model": "Semi",
+        "mileage": 39560,
+        "last_service": "2025-11-01",
+        "health_score": 80,
+        "telemetry": {
+            "battery_temp": 31.03384101841247,
+            "tire_pressure": [
+                30.239091556779563,
+                32.92879812309447,
+                34.442649831442615,
+                30.64465909007573
+            ],
+            "motor_rpm": 10833,
+            "coolant_level": 82.66508308766748
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1174",
+        "model": "Model X",
+        "mileage": 60748,
+        "last_service": "2025-10-30",
+        "health_score": 86,
+        "telemetry": {
+            "battery_temp": 36.61019540042858,
+            "tire_pressure": [
+                34.271597520742006,
+                34.86186455659277,
+                32.18488880629085,
+                31.679487878634955
+            ],
+            "motor_rpm": 12989,
+            "coolant_level": 89.33594346662301
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1175",
+        "model": "Model S",
+        "mileage": 23792,
+        "last_service": "2025-11-23",
+        "health_score": 82,
+        "telemetry": {
+            "battery_temp": 38.426555414479594,
+            "tire_pressure": [
+                30.736243475095044,
+                31.558174799339238,
+                31.28474617757229,
+                32.400544841612806
+            ],
+            "motor_rpm": 14503,
+            "coolant_level": 80.90239276882322
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1176",
+        "model": "Cybertruck",
+        "mileage": 37224,
+        "last_service": "2025-10-12",
+        "health_score": 86,
+        "telemetry": {
+            "battery_temp": 27.636903451217577,
+            "tire_pressure": [
+                31.04131152842764,
+                33.30899524108863,
+                31.56898540714418,
+                31.30588349902793
+            ],
+            "motor_rpm": 13283,
+            "coolant_level": 88.39244174851271
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1177",
+        "model": "Model S",
+        "mileage": 10679,
+        "last_service": "2025-09-14",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 32.53118913579008,
+            "tire_pressure": [
+                30.333940379628768,
+                34.20984896187798,
+                31.584287566867307,
+                33.73642204246485
+            ],
+            "motor_rpm": 79,
+            "coolant_level": 96.66107348896723
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1178",
+        "model": "Model X",
+        "mileage": 16848,
+        "last_service": "2025-12-30",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 32.26182474850226,
+            "tire_pressure": [
+                31.62111655733189,
+                31.148046099899975,
+                34.53127569358013,
+                31.00897985509929
+            ],
+            "motor_rpm": 8534,
+            "coolant_level": 82.4286636153403
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1179",
+        "model": "Model 3",
+        "mileage": 7526,
+        "last_service": "2025-12-11",
+        "health_score": 98,
+        "telemetry": {
+            "battery_temp": 22.044037359317674,
+            "tire_pressure": [
+                34.47519775375889,
+                32.0819059351206,
+                32.56425221938126,
+                30.201089359946657
+            ],
+            "motor_rpm": 14448,
+            "coolant_level": 90.40531635341245
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1180",
+        "model": "Cybertruck",
+        "mileage": 60795,
+        "last_service": "2025-11-17",
+        "health_score": 86,
+        "telemetry": {
+            "battery_temp": 42.39985978562082,
+            "tire_pressure": [
+                32.03521132148813,
+                34.35608143540462,
+                34.3361093560419,
+                34.76443068500349
+            ],
+            "motor_rpm": 1390,
+            "coolant_level": 85.73272672292123
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1181",
+        "model": "Semi",
+        "mileage": 32755,
+        "last_service": "2026-01-11",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 40.85968141982066,
+            "tire_pressure": [
+                34.97020120499589,
+                31.46526179843208,
+                34.8764700821619,
+                34.12974892071437
+            ],
+            "motor_rpm": 234,
+            "coolant_level": 94.38239279136978
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1182",
+        "model": "Model S",
+        "mileage": 49053,
+        "last_service": "2025-08-31",
+        "health_score": 84,
+        "telemetry": {
+            "battery_temp": 29.8140570787887,
+            "tire_pressure": [
+                32.39528411275399,
+                34.80324951142992,
+                33.33866434373559,
+                32.25468051130417
+            ],
+            "motor_rpm": 10546,
+            "coolant_level": 88.87277661626932
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1183",
+        "model": "Model X",
+        "mileage": 9631,
+        "last_service": "2025-12-23",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 37.066327014779674,
+            "tire_pressure": [
+                33.74031148859373,
+                32.19003837160416,
+                31.748355035887514,
+                31.581222149278545
+            ],
+            "motor_rpm": 6162,
+            "coolant_level": 92.31293153482785
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1184",
+        "model": "Model S",
+        "mileage": 12401,
+        "last_service": "2025-11-27",
+        "health_score": 85,
+        "telemetry": {
+            "battery_temp": 36.02392758570193,
+            "tire_pressure": [
+                32.38390896457602,
+                32.8396631053507,
+                30.27129490185133,
+                32.378398606220955
+            ],
+            "motor_rpm": 14513,
+            "coolant_level": 91.49605752943033
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1185",
+        "model": "Model Y",
+        "mileage": 61837,
+        "last_service": "2025-08-30",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 38.45073398391513,
+            "tire_pressure": [
+                31.8781861574694,
+                32.30135674755871,
+                33.80429998568915,
+                32.46634586132578
+            ],
+            "motor_rpm": 14640,
+            "coolant_level": 85.94018519248432
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1186",
+        "model": "Semi",
+        "mileage": 12774,
+        "last_service": "2025-12-31",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 32.73501459507048,
+            "tire_pressure": [
+                30.85336138678693,
+                31.735686318238127,
+                30.574871492289233,
+                33.14615473751286
+            ],
+            "motor_rpm": 13441,
+            "coolant_level": 90.31216786200112
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1187",
+        "model": "Cybertruck",
+        "mileage": 9856,
+        "last_service": "2025-10-31",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 41.677230164914064,
+            "tire_pressure": [
+                30.78521921108845,
+                34.43307717275026,
+                30.567486843801337,
+                32.257584053105575
+            ],
+            "motor_rpm": 12525,
+            "coolant_level": 82.5792295690624
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1188",
+        "model": "Cybertruck",
+        "mileage": 47739,
+        "last_service": "2025-09-08",
+        "health_score": 99,
+        "telemetry": {
+            "battery_temp": 34.60143554933123,
+            "tire_pressure": [
+                31.82166908482307,
+                33.72398069235854,
+                30.701596258668083,
+                31.233322217013868
+            ],
+            "motor_rpm": 2752,
+            "coolant_level": 96.27982995391059
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1189",
+        "model": "Semi",
+        "mileage": 79116,
+        "last_service": "2025-09-06",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 32.72500047039939,
+            "tire_pressure": [
+                34.997847666750374,
+                33.89856328428666,
+                30.322757606098257,
+                32.450577908848395
+            ],
+            "motor_rpm": 2948,
+            "coolant_level": 83.93570832598985
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1190",
+        "model": "Semi",
+        "mileage": 30575,
+        "last_service": "2025-09-29",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 35.36362891409434,
+            "tire_pressure": [
+                33.48473217313745,
+                30.50721344389573,
+                33.08824490119232,
+                30.944820712068626
+            ],
+            "motor_rpm": 9985,
+            "coolant_level": 85.28631756331178
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1191",
+        "model": "Model 3",
+        "mileage": 54684,
+        "last_service": "2025-11-19",
+        "health_score": 95,
+        "telemetry": {
+            "battery_temp": 28.983106660307193,
+            "tire_pressure": [
+                33.448420086009854,
+                32.87070192894519,
+                30.12008426850308,
+                31.46742895137124
+            ],
+            "motor_rpm": 8689,
+            "coolant_level": 91.80695732047273
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1192",
+        "model": "Semi",
+        "mileage": 55806,
+        "last_service": "2026-01-02",
+        "health_score": 89,
+        "telemetry": {
+            "battery_temp": 21.879787109007474,
+            "tire_pressure": [
+                31.825637454288213,
+                33.08769521651516,
+                34.53286713984591,
+                34.01486432590741
+            ],
+            "motor_rpm": 1626,
+            "coolant_level": 97.96135546599191
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1193",
+        "model": "Model 3",
+        "mileage": 69165,
+        "last_service": "2025-08-27",
+        "health_score": 72,
+        "telemetry": {
+            "battery_temp": 33.771517729348005,
+            "tire_pressure": [
+                34.3284710043439,
+                31.5788930309379,
+                30.193134375299593,
+                33.013524008544366
+            ],
+            "motor_rpm": 625,
+            "coolant_level": 88.32119563859484
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1194",
+        "model": "Model 3",
+        "mileage": 44751,
+        "last_service": "2025-12-25",
+        "health_score": 76,
+        "telemetry": {
+            "battery_temp": 22.71834641036065,
+            "tire_pressure": [
+                33.3973672901256,
+                31.478552653536788,
+                33.71089970824268,
+                30.174184046750295
+            ],
+            "motor_rpm": 1087,
+            "coolant_level": 91.83517010187813
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1195",
+        "model": "Cybertruck",
+        "mileage": 29056,
+        "last_service": "2025-12-16",
+        "health_score": 77,
+        "telemetry": {
+            "battery_temp": 32.665262033797845,
+            "tire_pressure": [
+                32.089597804882516,
+                32.08836489187191,
+                33.345832892816325,
+                34.238098192891634
+            ],
+            "motor_rpm": 2798,
+            "coolant_level": 80.16255258258967
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1196",
+        "model": "Cybertruck",
+        "mileage": 38521,
+        "last_service": "2025-09-24",
+        "health_score": 71,
+        "telemetry": {
+            "battery_temp": 28.605109877086786,
+            "tire_pressure": [
+                31.208807330817585,
+                32.69839187648905,
+                30.648185355589,
+                32.27674350805751
+            ],
+            "motor_rpm": 10527,
+            "coolant_level": 90.87336752845529
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1197",
+        "model": "Model Y",
+        "mileage": 6151,
+        "last_service": "2025-09-22",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 43.15773693962417,
+            "tire_pressure": [
+                34.60269466557168,
+                31.19042094899213,
+                31.2717984526098,
+                34.491971916005966
+            ],
+            "motor_rpm": 8574,
+            "coolant_level": 91.42970093443532
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1198",
+        "model": "Model S",
+        "mileage": 58816,
+        "last_service": "2025-10-31",
+        "health_score": 84,
+        "telemetry": {
+            "battery_temp": 35.09290471520541,
+            "tire_pressure": [
+                34.75362166751765,
+                33.34489693082317,
+                31.327361811455972,
+                33.4627782400835
+            ],
+            "motor_rpm": 8361,
+            "coolant_level": 95.22378418694547
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1199",
+        "model": "Semi",
+        "mileage": 77970,
+        "last_service": "2025-09-08",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 27.296129675368014,
+            "tire_pressure": [
+                32.23739879531029,
+                32.93226265795072,
+                30.96956273467835,
+                33.695576380813385
+            ],
+            "motor_rpm": 9914,
+            "coolant_level": 81.2401431114834
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1200",
+        "model": "Model Y",
+        "mileage": 21709,
+        "last_service": "2025-10-18",
+        "health_score": 96,
+        "telemetry": {
+            "battery_temp": 26.629204734731506,
+            "tire_pressure": [
+                30.644825424783676,
+                32.15223425181046,
+                32.87460525870618,
+                31.379435075233403
+            ],
+            "motor_rpm": 2934,
+            "coolant_level": 93.8205520938731
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1201",
+        "model": "Model X",
+        "mileage": 17134,
+        "last_service": "2026-01-04",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 20.382885119484285,
+            "tire_pressure": [
+                34.47762197109419,
+                33.752773100262516,
+                34.273667700561035,
+                30.907606764441027
+            ],
+            "motor_rpm": 2076,
+            "coolant_level": 95.93211461041896
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1202",
+        "model": "Model 3",
+        "mileage": 40394,
+        "last_service": "2025-10-31",
+        "health_score": 90,
+        "telemetry": {
+            "battery_temp": 26.144543904114308,
+            "tire_pressure": [
+                33.20499855227713,
+                34.73977432568531,
+                33.81758587832939,
+                34.08543134063531
+            ],
+            "motor_rpm": 8400,
+            "coolant_level": 81.79018744223872
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1203",
+        "model": "Model Y",
+        "mileage": 52596,
+        "last_service": "2025-09-24",
+        "health_score": 75,
+        "telemetry": {
+            "battery_temp": 39.74817236646692,
+            "tire_pressure": [
+                30.343898250180906,
+                32.71817756444736,
+                32.46183121047953,
+                34.80087633212105
+            ],
+            "motor_rpm": 2413,
+            "coolant_level": 92.95390725623633
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1204",
+        "model": "Cybertruck",
+        "mileage": 70398,
+        "last_service": "2026-01-02",
+        "health_score": 91,
+        "telemetry": {
+            "battery_temp": 34.16293915539016,
+            "tire_pressure": [
+                30.32058177146809,
+                33.829171556237426,
+                34.60627067998715,
+                30.75384893387872
+            ],
+            "motor_rpm": 8542,
+            "coolant_level": 94.47335028438786
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1205",
+        "model": "Semi",
+        "mileage": 66128,
+        "last_service": "2025-12-16",
+        "health_score": 81,
+        "telemetry": {
+            "battery_temp": 38.246327560011196,
+            "tire_pressure": [
+                33.36563454522691,
+                33.927232058869535,
+                30.225643719026078,
+                32.44117000369293
+            ],
+            "motor_rpm": 4181,
+            "coolant_level": 98.59306937005817
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1206",
+        "model": "Model S",
+        "mileage": 75371,
+        "last_service": "2025-12-02",
+        "health_score": 80,
+        "telemetry": {
+            "battery_temp": 27.6327698464461,
+            "tire_pressure": [
+                34.22724502409609,
+                30.458624947725596,
+                31.323182727713323,
+                32.31321793694025
+            ],
+            "motor_rpm": 6438,
+            "coolant_level": 97.34227304333866
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1207",
+        "model": "Semi",
+        "mileage": 64802,
+        "last_service": "2025-12-16",
+        "health_score": 87,
+        "telemetry": {
+            "battery_temp": 40.98121331612397,
+            "tire_pressure": [
+                30.210018981610933,
+                34.89275743271628,
+                32.39573352062942,
+                30.95908115597127
+            ],
+            "motor_rpm": 11190,
+            "coolant_level": 94.78548660844064
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1208",
+        "model": "Model Y",
+        "mileage": 74645,
+        "last_service": "2026-01-08",
+        "health_score": 94,
+        "telemetry": {
+            "battery_temp": 32.63778413220807,
+            "tire_pressure": [
+                33.329743934861334,
+                30.36685851384434,
+                32.35897105513834,
+                32.27078802706411
+            ],
+            "motor_rpm": 13937,
+            "coolant_level": 81.09336649530043
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    },
+    {
+        "id": "VIN-1209",
+        "model": "Model Y",
+        "mileage": 78845,
+        "last_service": "2025-11-24",
+        "health_score": 97,
+        "telemetry": {
+            "battery_temp": 39.28418074363849,
+            "tire_pressure": [
+                30.025023674351967,
+                31.889687454433645,
+                33.59258313992015,
+                31.298684749063348
+            ],
+            "motor_rpm": 8201,
+            "coolant_level": 83.1527038356652
+        },
+        "history": [
+            {
+                "date": "2023-11-15",
+                "issue": "Tire Rotation",
+                "cost": 50
+            },
+            {
+                "date": "2024-01-10",
+                "issue": "Software Update",
+                "cost": 0
+            }
+        ]
+    }
+]
