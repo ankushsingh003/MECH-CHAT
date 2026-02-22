@@ -4,31 +4,55 @@ MECH-CHAT is a premium, full-stack agentic orchestration system designed for hig
 
 ![MECH-CHAT Dashboard](dashboard/preview.png) *(Placeholder if you have a screenshot)*
 
-## 🚀 Key Features
+## 🏗️ System Architecture & Orchestration
 
-### 1. **Context-Aware Agent Orchestration**
-The system uses a **Master Orchestrator** to coordinate specialized agents in a chained workflow:
-- **Telemetry Analyst**: Monitors battery heat, tire integrity, motor RPM, and cooling levels.
-- **Diagnosis Engine**: Predicts specific failures (e.g., gearbox slippage, sensor punctures) based on anomalous data.
-- **Voice Interface (SAPI)**: Generates human-like alerts and engagement messages for drivers.
-- **Scheduling Agent**: Dynamically books specialized service slots based on the detected issue.
-- **Quality Monitor**: Collects post-service feedback to ensure resolution.
-- **Manufacturing Insights**: Performs Root Cause Analysis (RCA) and maps fleet failures back to factory component batches.
+Instead of long manuals, here is how MECH-CHAT orchestrates your fleet:
 
-### 2. **Premium Dashboard UI**
-- **Glassmorphism Design**: A sleek, commercial-grade interface with deep blurs and vibrant neon accents.
-- **Live Orchestration Feed**: Real-time log streaming showing agent interactions as they happen.
-- **SAPI Voice Wave**: Interactive voice pulse animation during customer engagement.
-- **Dynamic Fleet Health**: Real-time health scoring and telemetry visualization for hundreds of vehicles.
+```mermaid
+flowchart TD
+    subgraph "Dashboard (User Interface)"
+        UI[Premium Fleet Dashboard]
+        Logs[Live Orchestration Feed]
+        SAPI[SAPI Voice interface]
+    end
 
-### 3. **Security & Compliance (UEBA)**
-- Integrated **User and Entity Behavior Analytics (UEBA)** monitor.
-- Real-time security audits for every agent action.
-- Automatic flagging of unauthorized service requests or anomalous system triggers.
+    subgraph "Master Orchestrator"
+        MO{Orchestrator}
+        Audit[UEBA Security Monitor]
+    end
 
-### 4. **Scalable Architecture**
-- **Deadlock-Free Logging**: High-performance in-memory logging system optimized for single-threaded Python environments.
-- **Multithreaded Backend**: Asynchronous task execution allows the UI to stay responsive during complex agent workflows.
+    subgraph "Specialized Agents"
+        AA[Data Analysis Agent]
+        DA[Diagnosis Agent]
+        EA[Engagement Agent]
+        SA[Scheduling Agent]
+        FA[Feedback Agent]
+        IA[Manufacturing Insights]
+    end
+
+    UI -->|Trigger| MO
+    MO -->|1. Analyze| AA
+    MO -->|2. Diagnose| DA
+    MO -->|3. Alert| EA
+    MO -->|4. Schedule| SA
+    MO -->|5. Verify| FA
+    MO -->|6. RCA| IA
+
+    EA <-->|Voice Alert| SAPI
+    AA & DA & EA & SA & FA & IA -->|Real-time Logs| Logs
+    MO -.->|Compliance Audit| Audit
+
+    style UI fill:#030508,stroke:#00f2ff,stroke-width:2px,color:#fff
+    style MO fill:#0a0f19,stroke:#00f2ff,stroke-width:4px,color:#fff
+    style AA,DA,EA,SA,FA,IA fill:#111,stroke:#94a3b8,color:#f1f5f9
+    style Audit fill:#ff4d4d,stroke:#fff,color:#fff
+```
+
+### 🚀 High-Level Workflow
+1. **Detection**: Analysts monitor Heat, Tires, RPM, and Coolant.
+2. **Alert**: SAPI interface engages the driver with personalized voice alerts.
+3. **Action**: Scheduling agent automatically books specialized service slots.
+4. **Insight**: Failures are traced back to specific factory component batches.
 
 ---
 
