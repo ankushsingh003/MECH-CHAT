@@ -1,8 +1,10 @@
 import time
+import requests
 
 class UEBAMonitor:
     def __init__(self):
         self.logs = []
+        self.api_base = "http://localhost:5000/api/dashboard"
 
     def audit(self, agent_name, action, details):
         log_entry = {
@@ -13,11 +15,15 @@ class UEBAMonitor:
             "status": "APPROVED"
         }
         
-        # Simple anomaly detection: suspicious activity if scheduling without diagnosis
+        # Simple anomaly detection
         if action == "SCHEDULE_APPOINTMENT" and "DIAGNOSIS_ID" not in details:
             log_entry["status"] = "FLAGGED_UNAUTHORIZED"
-            print(f"!!! SECURITY ALERT: Unauthorized scheduling attempt by {agent_name} !!!")
-        
+
+        try:
+            requests.post(f"{self.api_base}/audits", json=log_entry)
+        except:
+            pass
+            
         self.logs.append(log_entry)
         return log_entry["status"]
 

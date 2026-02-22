@@ -1,12 +1,23 @@
 import time
+import requests
 
 class BaseAgent:
     def __init__(self, name, role):
         self.name = name
         self.role = role
+        self.api_base = "http://localhost:5000/api/dashboard"
 
     def log(self, message):
         print(f"[{self.name}] ({self.role}): {message}")
+        try:
+            requests.post(f"{self.api_base}/logs", json={
+                "agent": self.name,
+                "role": self.role,
+                "message": message,
+                "timestamp": time.time()
+            })
+        except:
+            pass # Server might not be running
 
 class MasterAgent(BaseAgent):
     def __init__(self):
