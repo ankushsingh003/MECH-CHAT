@@ -6,53 +6,60 @@ MECH-CHAT is a premium, full-stack agentic orchestration system designed for hig
 
 ## 🏗️ System Architecture & Orchestration
 
-Instead of long manuals, here is how MECH-CHAT orchestrates your fleet:
+MECH-CHAT operates on a strictly vertical agentic chain, ensuring security and compliance at every step.
 
 ```mermaid
 flowchart TD
-    subgraph "Dashboard (User Interface)"
-        UI[Premium Fleet Dashboard]
-        Logs[Live Orchestration Feed]
-        SAPI[SAPI Voice interface]
+    %% Node Definitions
+    UI["💻 PREMIUM DASHBOARD<br/>(Vite + TypeScript)"]
+    MO{"⚙️ MASTER ORCHESTRATOR<br/>(Core Logic)"}
+    
+    AA["🔍 TELEMETRY ANALYST<br/>(Anomaly Detection)"]
+    DA["🧠 DIAGNOSIS ENGINE<br/>(Failure Prediction)"]
+    EA["🗣️ ENGAGEMENT AGENT<br/>(SAPI Interface)"]
+    SA["📅 SCHEDULING AGENT<br/>(Service Coordination)"]
+    FA["⭐ FEEDBACK AGENT<br/>(Quality Monitor)"]
+    IA["🏭 MANUFACTURING RCA<br/>(Root Cause Analysis)"]
+
+    Audit["🛡️ UEBA MONITOR<br/>(Security Audit)"]
+
+    %% Flow/Connections
+    UI ====>|Interactive Trigger| MO
+    
+    subgraph "The Orchestration Pipeline"
+        direction TB
+        MO --> AA
+        AA --> DA
+        DA --> EA
+        EA --> SA
+        SA --> FA
+        FA --> IA
     end
 
-    subgraph "Master Orchestrator"
-        MO{Orchestrator}
-        Audit[UEBA Security Monitor]
-    end
+    MO -.- Audit
+    Audit -.- AA
+    Audit -.- DA
+    
+    %% Styling
+    classDef primary fill:#0a0f19,stroke:#00f2ff,stroke-width:2px,color:#fff;
+    classDef agent fill:#111,stroke:#94a3b8,color:#f1f5f9;
+    classDef security fill:#1a0505,stroke:#ff4d4d,color:#ff4d4d;
+    classDef ui fill:#030508,stroke:#00f2ff,color:#fff;
 
-    subgraph "Specialized Agents"
-        AA[Data Analysis Agent]
-        DA[Diagnosis Agent]
-        EA[Engagement Agent]
-        SA[Scheduling Agent]
-        FA[Feedback Agent]
-        IA[Manufacturing Insights]
-    end
+    class UI ui;
+    class MO primary;
+    class AA,DA,EA,SA,FA,IA agent;
+    class Audit security;
 
-    UI -->|Trigger| MO
-    MO -->|1. Analyze| AA
-    MO -->|2. Diagnose| DA
-    MO -->|3. Alert| EA
-    MO -->|4. Schedule| SA
-    MO -->|5. Verify| FA
-    MO -->|6. RCA| IA
-
-    EA <-->|Voice Alert| SAPI
-    AA & DA & EA & SA & FA & IA -->|Real-time Logs| Logs
-    MO -.->|Compliance Audit| Audit
-
-    style UI fill:#030508,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style MO fill:#0a0f19,stroke:#00f2ff,stroke-width:4px,color:#fff
-    style AA,DA,EA,SA,FA,IA fill:#111,stroke:#94a3b8,color:#f1f5f9
-    style Audit fill:#ff4d4d,stroke:#fff,color:#fff
+    %% Global Spacing
+    linkStyle default stroke:#94a3b8,stroke-width:1px;
 ```
 
 ### 🚀 High-Level Workflow
-1. **Detection**: Analysts monitor Heat, Tires, RPM, and Coolant.
+1. **Detection**: Data Analysis Agent monitors Heat, Tires, RPM, and Coolant.
 2. **Alert**: SAPI interface engages the driver with personalized voice alerts.
 3. **Action**: Scheduling agent automatically books specialized service slots.
-4. **Insight**: Failures are traced back to specific factory component batches.
+4. **Insight**: Failures are traced back to specific factory component batches via RCA.
 
 ---
 
