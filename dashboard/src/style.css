@@ -24,7 +24,7 @@ body {
     color: var(--text);
     font-family: var(--font);
     min-height: 100vh;
-    overflow: hidden;
+    overflow-y: auto;
     position: relative;
 }
 
@@ -118,7 +118,8 @@ main {
     display: grid;
     grid-template-columns: 320px 1fr 380px;
     gap: 1.25rem;
-    height: calc(100vh - 100px);
+    min-height: calc(100vh - 120px);
+    padding-bottom: 2rem;
 }
 
 .card {
@@ -162,6 +163,7 @@ main {
     flex: 1;
     overflow-y: auto;
     padding-right: 0.5rem;
+    max-height: 600px;
 }
 
 .scroll-container::-webkit-scrollbar {
