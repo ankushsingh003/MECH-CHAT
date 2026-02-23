@@ -1,6 +1,5 @@
-import json
-import random
-from flask import Flask, jsonify, request
+import os
+from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 from agents.master_agent import MasterAgent
 from agents.data_analysis_agent import DataAnalysisAgent
@@ -11,7 +10,7 @@ from agents.feedback_agent import FeedbackAgent
 from agents.manufacturing_insights import ManufacturingInsightsModule
 from security.ueba_monitor import UEBAMonitor
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../dashboard/dist', static_url_path='/')
 CORS(app) # Enable CORS for dashboard
 
 # In-memory storage for dashboard live data
@@ -63,18 +62,18 @@ def trigger_orchestration(vin):
 with open("data/vehicles.json", "r") as f:
     vehicles = json.load(f)
 
-@app.route("/", methods=["GET"])
-def home():
-    return jsonify({
-        "message": "Welcome to the MECH-CHAT Mock Server!",
-        "endpoints": {
-            "vehicles": "/api/vehicles",
-            "telemetry": "/api/telemetry/<vin>",
-            "maintenance": "/api/maintenance/<vin>",
-            "slots": "/api/slots",
-            "book": "/api/book [POST]"
-        }
-    })
+# Serve Dashboard
+@app.route("/")
+def serve_dashboard():
+    return send_from_directory(app.static_folder, 'index.html')
+
+@app.route("/<path:path>")
+def serve_assets(path):
+    if path.startswith("api/"): # Fallback for API routes if needed
+        return None 
+    if os.path.exists(os.path.join(app.static_folder, path)):
+        return send_from_directory(app.static_folder, path)
+    return send_from_directory(app.static_folder, 'index.html')
 
 @app.route("/api/telemetry/<vin>", methods=["GET"])
 def get_telemetry(vin):
