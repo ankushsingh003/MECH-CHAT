@@ -69,6 +69,39 @@ header {
     -webkit-text-fill-color: var(--text-dim);
 }
 
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.author-tag {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 6px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    backdrop-filter: var(--glass);
+    transition: all 0.3s ease;
+}
+
+.author-tag span {
+    color: var(--accent);
+    font-weight: 800;
+    margin-left: 4px;
+}
+
+.author-tag:hover {
+    border-color: var(--accent);
+    background: rgba(0, 242, 255, 0.05);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 20px rgba(0, 242, 255, 0.1);
+}
+
 .system-status {
     display: flex;
     align-items: center;
